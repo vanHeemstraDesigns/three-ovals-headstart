@@ -1,2 +1,2 @@
-# three-ovals-headstart
-Three Ovals - Headstart
+three-ovals-headstart
+# Three Ovals - Headstart
